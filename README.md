@@ -13,6 +13,7 @@
 ## Instructions
 
 - Fork the repository.
+- Create new folder with your name and add your code inside.
 - After you finished your work, create a new branch and summit a pull request. Add ceosilvajr and rogermolas as a reviewer.
 - Applicant is expected to submit his/her work 1 day after his/her interview.
 
