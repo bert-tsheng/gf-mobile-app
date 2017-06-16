@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--FONT SIZE-->
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_semi_normal">15sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_medium">20sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+    <dimen name="font_header">24sp</dimen>
+    <dimen name="font_big">38sp</dimen>
+    <dimen name="font_biggest">45sp</dimen>
+    <dimen name="font_date">45sp</dimen>
+
+
+</resources>
