@@ -1,4 +1,4 @@
-# Mobile exam app
+# Sample mobile app
 
 ## Objective
 
