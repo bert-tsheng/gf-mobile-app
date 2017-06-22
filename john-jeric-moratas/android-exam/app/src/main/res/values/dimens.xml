@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--FONT SIZE-->
+    <dimen name="splash_screen">50sp</dimen>
+    <dimen name="title_text">16sp</dimen>
+    <dimen name="description_text">13sp</dimen>
+
+
+
+</resources>
